@@ -11,15 +11,14 @@ This is a Solidity smart contract in which we can mint and burn tokens. I have c
 
 ### Mint function:
 It allows new tokens to created and assigned to specific address. In this code it takes two parameters:
-a) "address" : new token will assigned to this address.
-b) "value"   : number of token to be created.
+1. "address" : new token will assigned to this address.
+2. "value"   : number of token to be created.
 #### Burn function :
 It allow token to destroyed from specific address. In this code it takes two parameters:
-a) "address" : nthe address from which the token will be removed.
-b) "value"   : number of token to be destroyed.
+1. "address" : nthe address from which the token will be removed.
+2. "value"   : number of token to be destroyed.
 
 ## Author:
-Deepak Kumar Singh(chandigarh University)
 https://github.com/DKS-2020
 
 ## License:
